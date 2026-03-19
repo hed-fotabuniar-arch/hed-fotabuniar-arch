@@ -106,13 +106,36 @@
 
 <div align="center">
 
-## 〔 軌跡 〕 Contribution
+## 〔 軌跡 〕 Contribution — 貢献の記録
 
+```
+⚔️  Every commit is a strike. Every push is a battle won.  ⚔️
+```
+
+<!-- Snake contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshudev/kshudev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kshudev/kshudev/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kshudev/kshudev/output/github-snake-dark.svg" />
+</picture>
+
+<br/>
+
+<!-- Activity Graph — Japan/crimson theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kshudev&bg_color=0a0a0a&color=e8c97a&line=8b0000&point=e8c97a&area=true&area_color=8b0000&hide_border=true&custom_title=⚔️%20Battlefield%20Activity%20⚔️" alt="Activity Graph" />
+
+<br/>
+
+<!-- Pac-Man fallback / bonus -->
+<details>
+<summary>🎮 見る — View Pac-Man Graph</summary>
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshudev/kshudev/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kshudev/kshudev/output/pacman-contribution-graph.svg" />
   <img alt="GitHub Contribution Pac-Man" src="https://raw.githubusercontent.com/kshudev/kshudev/output/pacman-contribution-graph.svg" />
 </picture>
+</details>
 
 </div>
 
