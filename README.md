@@ -1,24 +1,24 @@
 #  Full-Stack Developer Portfolio
- 
+
 <div align="center">
- 
+
 <a href="https://www.linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2%22 alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
 </a>
 <a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github&logoColor=white&color=181717%22 alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Portfolio"/>
 </a>
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Wel… />
- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;UI%2FUX+Designer;Problem+Solver;Creative+Innovator;Tech+Enthusiast%22 alt="Typing SVG" />
- 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Portfolio" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;UI%2FUX+Designer;Problem+Solver;Creative+Innovator;Tech+Enthusiast" alt="Typing SVG" />
+
 <hr>
- 
+
 ## 💻 Tech Stack
- 
+
 <div align="center">
- 
+
 ### 🔥 Programming Languages
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 <a href="#" target="_blank" style="transform-origin: center; animation: scaleIn 0.5s ease-out;">
@@ -43,7 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65" style="margin: 10px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
 </a>
 </p>
- 
+
 ### ⚡ Frontend Development
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; animation: slideIn 1s ease-out;">
 <a href="#" target="_blank">
@@ -65,7 +65,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0px)'" />
 </a>
 </p>
- 
+
 ### 🎨 UI Frameworks & Design
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; animation: fadeIn 1s ease-out;">
 <a href="#" target="_blank">
@@ -84,7 +84,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" style="margin: 10px; filter: drop-shadow(0 0 2px #F24E1E); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #F24E1E)'" onmouseout="this.style.filter='drop-shadow(0 0 2px #F24E1E)" />
 </a>
 </p>
- 
+
 ### 🛠 Development Tools & Platforms
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; animation: bounceIn 1s ease-out;">
 <a href="#" target="_blank">
@@ -103,7 +103,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)" />
 </a>
 </p>
- 
+
 ### 🌟 Database Technologies
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; animation: slideInUp 1s ease-out;">
 <a href="#" target="_blank">
@@ -116,30 +116,28 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" style="margin: 10px; filter: drop-shadow(0 0 2px #FFCA28); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #FFCA28)'; this.style.transform='translateY(-5px)'" onmouseout="this.style.filter='drop-shadow(0 0 2px #FFCA28)'; this.style.transform='translateY(0px)'" />
 </a>
 </p>
- 
+
 </div>
- 
+
 <!-- GitHub Streak Stats -->
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Owenskihu&theme=tokyonight&hide_border=true&background=transparent%22 alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Owenskihu&theme=tokyonight&hide_border=true&background=transparent" alt="GitHub Streak Stats" />
 </div>
- 
+
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Owenskihu&show_icons=true&theme=tokyonight&hide_border=true%22 alt="Your GitHub stats" />
- 
+<img src="https://github-readme-stats.vercel.app/api?username=Owenskihu&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub stats" />
+
 ## 🎮 Contribution Pac-Man
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/pacman-contribution-graph-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/pacman-contribution-graph.svg" />
 <img alt="GitHub Contribution Pac-Man Animation" src="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/pacman-contribution-graph.svg" />
 </picture>
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
- 
-<a href="https://github.com/Owenskihu">
-<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Owenskihu-blue?style=for-the-badge%22 alt="Made with love" />
-</a>
- 
-</div>
 
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+<a href="https://github.com/Owenskihu">
+<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Owenskihu-blue?style=for-the-badge" alt="Made with love" />
+</a>
+
+</div>
