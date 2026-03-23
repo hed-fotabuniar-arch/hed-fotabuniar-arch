@@ -1,11 +1,11 @@
-# 🚀 Full-Stack Developer Portfolio
+#  Full-Stack Developer Portfolio
  
 <div align="center">
  
-<a href="Your-LinkedIn-URL">
+<a href="https://www.linkedin.com/in/yourprofile">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2%22 alt="LinkedIn"/>
 </a>
-<a href="Your-Portfolio-URL">
+<a href="https://yourportfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github&logoColor=white&color=181717%22 alt="Portfolio"/>
 </a>
  
@@ -22,7 +22,7 @@
 ### 🔥 Programming Languages
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 <a href="#" target="_blank" style="transform-origin: center; animation: scaleIn 0.5s ease-out;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out; filter: drop-shadow(0 0 5px rgba(255,255,255,0.3));" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'; this.style.filter='drop-shadow(0 0 10px rgba(255,255,255,0.5))'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='drop-shadow(0 0 5px rgba(255,255,255,0.3))'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out; filter: drop-shadow(0 0 5px rgba(255,255,255,0.3));" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'; this.style.filter='drop-shadow(0 0 10px rgba(255,255,255,0.5))" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='drop-shadow(0 0 5px rgba(255,255,255,0.3))" />
 </a>
 <a href="#" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65" style="margin: 10px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
@@ -69,38 +69,38 @@
 ### 🎨 UI Frameworks & Design
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; animation: fadeIn 1s ease-out;">
 <a href="#" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" style="margin: 10px; filter: drop-shadow(0 0 2px #7952B3); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #7952B3)'" onmouseout="this.style.filter='drop-shadow(0 0 2px #7952B3)'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" style="margin: 10px; filter: drop-shadow(0 0 2px #7952B3); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #7952B3)'" onmouseout="this.style.filter='drop-shadow(0 0 2px #7952B3)" />
 </a>
 <a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-dark.svg" alt="Tailwind" width="65" height="65" style="margin: 10px; filter: drop-shadow(0 0 2px #38BDF8); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #38BDF8)'" onmouseout="this.style.filter='drop-shadow(0 0 2px #38BDF8)'" />
+<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-dark.svg" alt="Tailwind" width="65" height="65" style="margin: 10px; filter: drop-shadow(0 0 2px #38BDF8); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #38BDF8)'" onmouseout="this.style.filter='drop-shadow(0 0 2px #38BDF8)" />
 </a>
 <a href="#" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="65" height="65" style="margin: 10px; filter: drop-shadow(0 0 2px #007FFF); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #007FFF)'" onmouseout="this.style.filter='drop-shadow(0 0 2px #007FFF)'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="65" height="65" style="margin: 10px; filter: drop-shadow(0 0 2px #007FFF); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #007FFF)'" onmouseout="this.style.filter='drop-shadow(0 0 2px #007FFF)" />
 </a>
 <a href="#" target="_blank">
-<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="65" height="65" style="margin: 10px; filter: drop-shadow(0 0 2px #1677FF); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #1677FF)'" onmouseout="this.style.filter='drop-shadow(0 0 2px #1677FF)'" />
+<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="65" height="65" style="margin: 10px; filter: drop-shadow(0 0 2px #1677FF); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #1677FF)'" onmouseout="this.style.filter='drop-shadow(0 0 2px #1677FF)" />
 </a>
 <a href="#" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" style="margin: 10px; filter: drop-shadow(0 0 2px #F24E1E); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #F24E1E)'" onmouseout="this.style.filter='drop-shadow(0 0 2px #F24E1E)'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" style="margin: 10px; filter: drop-shadow(0 0 2px #F24E1E); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #F24E1E)'" onmouseout="this.style.filter='drop-shadow(0 0 2px #F24E1E)" />
 </a>
 </p>
  
 ### 🛠 Development Tools & Platforms
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; animation: bounceIn 1s ease-out;">
 <a href="#" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)" />
 </a>
 <a href="#" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)" />
 </a>
 <a href="#" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)" />
 </a>
 <a href="#" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)" />
 </a>
 <a href="#" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="65" height="65" style="margin: 10px; transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)" />
 </a>
 </p>
  
@@ -121,11 +121,11 @@
  
 <!-- GitHub Streak Stats -->
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Buchi-dev&theme=tokyonight&hide_border=true&background=transparent%22 alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Owenskihu&theme=tokyonight&hide_border=true&background=transparent%22 alt="GitHub Streak Stats" />
 </div>
  
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&hide_border=true%22 alt="Your GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Owenskihu&show_icons=true&theme=tokyonight&hide_border=true%22 alt="Your GitHub stats" />
  
 ## 🎮 Contribution Pac-Man
 <picture>
@@ -136,10 +136,8 @@
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
  
-<a href="https://github.com/Buchi-dev">
-<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Buchi--dev-blue?style=for-the-badge%22 alt="Made with love" />
+<a href="https://github.com/Owenskihu">
+<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Owenskihu-blue?style=for-the-badge%22 alt="Made with love" />
 </a>
  
 </div>
-
- 
